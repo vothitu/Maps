@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 767" style="enable-background:new 0 0 1920 767;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#F1EEE8;}
+	.st2{fill:#9FD790;}
+	.st3{fill:#89D2AE;}
+	.st4{fill:#FAFAD2;}
+	.st5{fill:#F0F0D8;stroke:#E5D2CC;stroke-linejoin:round;}
+	.st6{opacity:0.87;}
+	.st7{fill:#EDD46B;}
+	.st8{fill:#FFF68F;}
+	.st9{fill:#CCCCFF;}
+	.st10{fill:#BCA9A9;}
+	.st11{fill:#B7D5E2;}
+	.st12{fill:none;stroke:#E5D2CC;stroke-linejoin:round;}
+	.st13{fill:#FEDEFF;}
+	.st14{fill:none;stroke:#CBCB8E;stroke-width:6.5;stroke-linejoin:round;}
+	.st15{fill:none;stroke:#BFBFBF;stroke-width:19.5;stroke-linejoin:round;}
+	.st16{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;}
+	.st17{fill:none;stroke:#FFFFFF;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;}
+	.st18{fill:none;stroke:#666666;stroke-linejoin:round;}
+	.st19{enable-background:new    ;}
+	.st20{fill:#1CA53D;stroke:#E5D2CC;stroke-width:0.5;stroke-miterlimit:10;}
+	.st21{fill:#1CA53D;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st22{fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st23{fill:#F9E79D;stroke:#BF0025;stroke-width:0.25;stroke-miterlimit:10;}
+	.st24{fill:#FF9955;stroke:#000000;stroke-miterlimit:10;}
+	.st25{fill:#080502;}
+	.st26{fill:#FF9955;}
+	.st27{fill:#F9E79D;stroke:#BF0025;stroke-width:0.5;stroke-miterlimit:10;}
+	.st28{fill:#F9E79D;stroke:#BF0025;stroke-width:0.5;stroke-linejoin:round;}
+	.st29{fill:#E54646;}
+	.st30{fill:#4AD374;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st31{fill:none;stroke:#000000;stroke-width:1.5;}
+	.st32{fill:none;stroke:#FFFFFF;stroke-width:1.5;}
+	.st33{fill:#66CDAA;}
+	.st34{fill:#66CDAA;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st36{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st37{fill:#FFFFFF;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="1920" height="767"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Map" class="st0">
+		<g id="Map_background">
+			<g id="map_background">
+				<rect id="Map_Background_Fill" y="0" class="st1" width="1920" height="767"/>
+			</g>
+		</g>
+		<g id="Polygons">
+			<g id="orchard__fill">
+				<path class="st2" d="M971.5,445.2l16.3,51.8l163-51.4l-16.3-51.8L971.5,445.2z"/>
+				<path class="st2" d="M1173.3,394.2l10,33.1l188.3-57l-10-33L1173.3,394.2z"/>
+			</g>
+			<g id="leisure_pitch__fill">
+				<path class="st3" d="M598.7,98.5l69.4-21.4L709.7,212l-69.3,21.4C640.4,233.4,598.7,98.5,598.7,98.5z"/>
+				<path class="st3" d="M643.9,240.7l67.8-21.4l40.9,129.1l-67.8,21.5L643.9,240.7L643.9,240.7z"/>
+				<path class="st3" d="M675.6,75.8l30.2,93.5l59.3-19.2l-30.2-93.5C734.9,56.7,675.6,75.8,675.6,75.8z"/>
+				<path class="st3" d="M738.3,49.9L775.9,164l53-17.4L791.4,32.4L738.3,49.9L738.3,49.9z"/>
+				<path class="st3" d="M778,168.9L815.2,285l52.1-16.7l-37.3-116.1L778,168.9z"/>
+			</g>
+			<g id="academic__fill">
+				<path class="st4" d="M448.5,121.9L798.2,12.4l92.8,289.3l486.4-149.3l106.3,339l-853,264L448.5,121.9L448.5,121.9z"/>
+				<path class="st5" d="M812.8,574.3l13.5,42.1l-161.6,51.8l-13.5-42.1L812.8,574.3z"/>
+				<g class="st6">
+					
+						<image style="overflow:visible;opacity:0.8;" width="218" height="187" xlink:href="3D9E12A.png"  transform="matrix(1 0 0 1 935 261)">
+					</image>
+					<g>
+						<path class="st7" d="M943.7,317.2c11,36.2,22,72.3,33,108.5c51.4-16.4,102.8-32.8,154.1-49.2c-11.3-35.5-22.5-71-33.7-106.5
+							C1045.9,285.7,994.8,301.4,943.7,317.2z"/>
+					</g>
+				</g>
+				<g>
+					
+						<image style="overflow:visible;opacity:0.8;" width="248" height="192" xlink:href="3D9E12E.png"  transform="matrix(1 0 0 1 1118 197)">
+					</image>
+					<g>
+						<polygon class="st8" points="1126.9,263.1 1158.8,366.2 1343.3,309.1 1311.3,205.9 1126.9,263.1 						"/>
+					</g>
+				</g>
+				<g>
+					
+						<image style="overflow:visible;opacity:0.8;" width="191" height="125" xlink:href="3D9E129.png"  transform="matrix(1 0 0 1 1004 454)">
+					</image>
+					<g>
+						<polygon class="st9" points="1013,510.2 1027.9,556.1 1172.8,508.8 1157.9,463 1013,510.2 						"/>
+					</g>
+				</g>
+				<g>
+					
+						<image style="overflow:visible;opacity:0.8;" width="195" height="123" xlink:href="3D9E12B.png"  transform="matrix(1 0 0 1 1186 399)">
+					</image>
+					<g>
+						<polygon class="st9" points="1194.4,455.7 1208.7,500 1358.7,451.7 1344.5,407.4 1194.4,455.7 						"/>
+					</g>
+				</g>
+			</g>
+			<g id="building__fill">
+				<path class="st10" d="M1413.5,402.7l4.4,15.9l14.1-3.9l-4.5-15.9L1413.5,402.7L1413.5,402.7z"/>
+			</g>
+			<g id="orchard__fill1">
+				<path class="st2" d="M971.5,445.2l16.3,51.8l163-51.4l-16.3-51.8L971.5,445.2z"/>
+				<path class="st2" d="M1173.3,394.2l10,33.1l188.3-57l-10-33L1173.3,394.2z"/>
+			</g>
+			<g id="academic__fill1">
+				<g>
+					
+						<image style="overflow:visible;opacity:0.9;" width="211" height="294" xlink:href="3D9E128.png"  transform="matrix(1 0 0 1 469 94)">
+					</image>
+					<g>
+						<polygon class="st11" points="548.1,364.8 656.7,331.5 586.7,103.3 478.2,136.6 						"/>
+						<polygon class="st12" points="548.1,364.8 656.7,331.5 586.7,103.3 478.2,136.6 						"/>
+					</g>
+				</g>
+				<g>
+					
+						<image style="overflow:visible;opacity:0.8;" width="206" height="125" xlink:href="3D9E136.png"  transform="matrix(1 0 0 1 643 566)">
+					</image>
+					<g>
+						
+							<rect x="653.8" y="599.1" transform="matrix(0.9522 -0.3054 0.3054 0.9522 -154.4433 255.2976)" class="st9" width="169.7" height="44.2"/>
+					</g>
+				</g>
+			</g>
+			<g id="building__fill1">
+				<path class="st10" d="M1413.5,402.7l4.4,15.9l14.1-3.9l-4.5-15.9L1413.5,402.7L1413.5,402.7z"/>
+			</g>
+			<g id="academic__fill111">
+				
+					<image style="overflow:visible;opacity:0.9;" width="245" height="248" xlink:href="3D9E139.png"  transform="matrix(1 0 0 1 593 390)">
+				</image>
+				<g>
+					<g>
+						<path class="st13" d="M601.5,451l10.3,32.5l120.7-38.4c3.2,10.4,6.4,20.9,9.6,31.3c-40.9,12.7-81.7,25.5-122.6,38.2
+							c4.4,13.9,8.7,27.7,13.1,41.6l123.6-39.3c3,9.4,5.9,18.8,8.9,28.1c-41.4,12.9-82.9,25.9-124.3,38.8
+							c3.3,10.5,6.6,20.9,9.9,31.4c54.8-17.4,109.6-34.9,164.4-52.3c-3.2-10.2-6.4-20.3-9.6-30.5c-8.9,2.8-17.7,5.5-26.6,8.3
+							c-2.9-9.4-5.9-18.7-8.8-28.1c9.3-2.9,18.5-5.8,27.8-8.8c-4.3-13.7-8.6-27.3-12.8-41c-9.1,3.1-18.1,6.1-27.2,9.2
+							c-3.3-10.7-6.5-21.4-9.8-32.1c9.7-3.4,19.4-6.7,29-10.1c-3.7-10.4-7.5-20.7-11.2-31.1C711,416.2,656.2,433.6,601.5,451z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="Line_artwork">
+			<g id="highway_service__border">
+				<path class="st14" d="M1092.3,686.6l17.4,57.3l66.6,204.4l107.5,346.8l55,190.8l96.2,362.9"/>
+				<path class="st14" d="M1166.2,663.9l19.2,56.4l66,204.1"/>
+				<path class="st14" d="M1455,360.7l-64.6,18.7l-222.8,69.4l-191.3,60.3l-4.5-15l-16-52.5l-34.9-114.6l-12.1-15.4"/>
+				<path class="st14" d="M681.6,387.6l-45.6-150L591.8,92.1l-122.2,37.3l91.5,297.2l9.1,29.8l19.2-5.7l12.5,41.9l6.3,21.1
+					l15.5,51.8l5.3,17.8l12,40l25.2,84.4l196-63.9l143.5-44.4l190.4-58.8l209.5-64.8l5-27l-20.4-69.4l-21.4-66.3l-42.8-123.3"/>
+				<path class="st14" d="M1390.4,379.4l11.4-34.1l-48.5-146.9l-27.1-8.5h-13.9l-210.2,63.4l-193.3,58.3l-20.8,6.3l-60.2,18.1
+					l-44.5,13.4l-12.8,9.5l23.1,71.7l7.3,22.6l16.5,51.3l5.7,17.7l12.7,39.4l26.5,82.4"/>
+				<path class="st14" d="M770.6,358.8l-8.6,2.8l-80.3,26l-120.5,39l-26.4,8.5"/>
+				<path class="st14" d="M1196.3,540.6l-28.7-91.8l-21.9-67.7L1112.1,275l-9.9-21.7"/>
+				<path class="st14" d="M793.6,430.5L602,492.6"/>
+				<path class="st14" d="M608.3,513.7l192.6-60.6"/>
+				<path class="st14" d="M817.4,504.4l-193.6,61.1"/>
+				<path class="st14" d="M629.2,583.4l194-61.3"/>
+				<path class="st14" d="M835.8,561.4l-194.7,61.9"/>
+				<path class="st14" d="M591.8,92.2L671,67.9l44.5,145.4L636,237.7"/>
+				<path class="st14" d="M671,67.9l62.8-19.3l39.4,119.3l54.6,168"/>
+				<path class="st14" d="M733.8,48.7l61.8-20l37.8,120.4l-60.2,18.9"/>
+				<path class="st14" d="M762,361.6l-46.5-148.3"/>
+				<path class="st14" d="M1369,313.1l-28.3,9l-194.9,59l-190,60.4"/>
+				<path class="st14" d="M1005.9,599.4L971.8,494"/>
+				<path class="st14" d="M833.3,149.1L888,317.8"/>
+			</g>
+			<g id="highway_service__border1">
+				<path class="st14" d="M1114.8,967.9l-57-194.1l5-13.5l47-16.5l75.6-23.6l41.4-15.4l13.8-5.3l64.2,185.2l-2,15.8l-10.6,10
+					l-29.1,10l-11.8,3.8l-75,23.9L1114.8,967.9L827,1059.7l-63.5,20.3l-92,34.9l-72.5,55.8l-53,48.8l-30.7,53l-25.1,69.8l-8.4,72.6
+					l2.8,64.1L596.2,1815l32.1,51.6l40.5,44.7l55.8,36.2l85.1,36.3l80.9,16.8l97.6-14l156-48.1l291.1-89.7l101.6-31.3l194.2-59.8
+					l153.2-48.3l136-40.8"/>
+				<path class="st14" d="M1240.6,699.6l27.8-15.3l148.2-52.8l35.8-24.3l17.8-35.2l-0.5-14l17.8-36.8"/>
+				<path class="st14" d="M499.3,973.4l58.5-120.6l9.5-20.2l16.5-15.8l64-26l96-35.5l232.5-75.5l101.3-34.8l75.1-22.7l334.6-101.1
+					l28.1-38"/>
+				<path class="st14" d="M1047.8,706.4l44.6-19.8l73.8-22.7l61.5-13.6"/>
+			</g>
+			<g id="highway_residential__border">
+				<path class="st15" d="M0.8,1027L123,956.2l79.8-46.3l82-84l44.8-35.6l89.2-75.5l149.5-117l6.8-6.1l2.8-7.9l-43-148.7l-8.1-27.9
+					l-23.9-82.5l-32.7-90.4l-10.3-28.6l-45-46l-54-33l-39-31l-11.3-25.1l0.9-20.7l33.9-196.9L312.7-233l-14.8-39.3v-44.6l21-83.7
+					l9.6-50.9l1.4-7.6l-12-73l-9-47l10-56l10.3-26l13.8-35l36-81l14-30l2-24.3l1-17.7l-14-71l-9.8-86.5l-4.2-36.5l18-58l26-46l8-36
+					v-44l-6.1-31.3"/>
+				<path class="st15" d="M1115.4,28.6L903.8,93.8l-22,25l-2,43l30,83l30,12l37-2l191-64l213.7-66.6"/>
+				<path class="st15" d="M1062.2-139.1l30.7,97.9l22.6,69.8l52.5,162.2"/>
+				<path class="st15" d="M526.7,407.3l-100.9-52.5v-20l28.8-65.3l15.5-35.1"/>
+				<path class="st15" d="M1595.8,170.8l-18,7l-38.5,141l-69.5-7l-26.6,10.6"/>
+				<path class="st15" d="M1515.4,483.3l-17.7-15.4l-11.7-16.7l-4.8-6.9l-26.1-83.6l-11.8-38.3l-49.1-157.8l-4.4-14.2l-8.1-26.2
+					L1365.2,74l-73.4-238.3l-4.6-14.6l-6.5-21.1l-172.3-553.7l-14.5-46.7L980-1166.6l-9.6-30.9L906.9-1389l-6.8-20.5l-10.5-32.7"/>
+				<path class="st15" d="M1365.2,74l76.7-29.5l19.3-10.3l12.2-8.7l8.5-11.3l4.9-14.6l70.5-257.9l-1.1-15.4"/>
+				<path class="st15" d="M1482,14.2l83.4,24.6l52.6,18.2"/>
+				<path class="st15" d="M301.8,191.8l152.8,77.7"/>
+			</g>
+			<g id="highway_service__border11">
+				<path class="st14" d="M1092.3,686.6l17.4,57.3l66.6,204.4l107.5,346.8l55,190.8l96.2,362.9"/>
+				<path class="st14" d="M1166.2,663.9l19.2,56.4l66,204.1"/>
+				<path class="st14" d="M1455,360.7l-64.6,18.7l-222.8,69.4l-191.3,60.3l-4.5-15l-16-52.5l-34.9-114.6l-12.1-15.4"/>
+				<path class="st14" d="M681.6,387.6l-45.6-150L591.8,92.1l-122.2,37.3l91.5,297.2l9.1,29.8l19.2-5.7l12.5,41.9l6.3,21.1
+					l15.5,51.8l5.3,17.8l12,40l25.2,84.4l196-63.9l143.5-44.4l190.4-58.8l209.5-64.8l5-27l-20.4-69.4l-21.4-66.3l-42.8-123.3"/>
+				<path class="st14" d="M1390.4,379.4l11.4-34.1l-48.5-146.9l-27.1-8.5h-13.9l-210.2,63.4l-193.3,58.3l-20.8,6.3l-60.2,18.1
+					l-44.5,13.4l-12.8,9.5l23.1,71.7l7.3,22.6l16.5,51.3l5.7,17.7l12.7,39.4l26.5,82.4"/>
+				<path class="st14" d="M770.6,358.8l-8.6,2.8l-80.3,26l-120.5,39l-26.4,8.5"/>
+				<path class="st14" d="M1196.3,540.6l-28.7-91.8l-21.9-67.7L1112.1,275l-9.9-21.7"/>
+				<path class="st14" d="M793.6,430.5L602,492.6"/>
+				<path class="st14" d="M608.3,513.7l192.6-60.6"/>
+				<path class="st14" d="M817.4,504.4l-193.6,61.1"/>
+				<path class="st14" d="M629.2,583.4l194-61.3"/>
+				<path class="st14" d="M835.8,561.4l-194.7,61.9"/>
+				<path class="st14" d="M591.8,92.2L671,67.9l44.5,145.4L636,237.7"/>
+				<path class="st14" d="M671,67.9l62.8-19.3l39.4,119.3l54.6,168"/>
+				<path class="st14" d="M733.8,48.7l61.8-20l37.8,120.4l-60.2,18.9"/>
+				<path class="st14" d="M762,361.6l-46.5-148.3"/>
+				<path class="st14" d="M1369,313.1l-28.3,9l-194.9,59l-190,60.4"/>
+				<path class="st14" d="M1005.9,599.4L971.8,494"/>
+				<path class="st14" d="M833.3,149.1L888,317.8"/>
+			</g>
+			<g id="highway_service__border111">
+				<path class="st14" d="M1114.8,967.9l-57-194.1l5-13.5l47-16.5l75.6-23.6l41.4-15.4l13.8-5.3l64.2,185.2l-2,15.8l-10.6,10
+					l-29.1,10l-11.8,3.8l-75,23.9L1114.8,967.9L827,1059.7l-63.5,20.3l-92,34.9l-72.5,55.8l-53,48.8l-30.7,53l-25.1,69.8l-8.4,72.6
+					l2.8,64.1L596.2,1815l32.1,51.6l40.5,44.7l55.8,36.2l85.1,36.3l80.9,16.8l97.6-14l156-48.1l291.1-89.7l101.6-31.3l194.2-59.8
+					l153.2-48.3l136-40.8"/>
+				<path class="st14" d="M1240.6,699.6l27.8-15.3l148.2-52.8l35.8-24.3l17.8-35.2l-0.5-14l17.8-36.8"/>
+				<path class="st14" d="M499.3,973.4l58.5-120.6l9.5-20.2l16.5-15.8l64-26l96-35.5l232.5-75.5l101.3-34.8l75.1-22.7l334.6-101.1
+					l28.1-38"/>
+				<path class="st14" d="M1047.8,706.4l44.6-19.8l73.8-22.7l61.5-13.6"/>
+			</g>
+			<g id="highway_residential__border1">
+				<path class="st15" d="M0.8,1027L123,956.2l79.8-46.3l82-84l44.8-35.6l89.2-75.5l149.5-117l6.8-6.1l2.8-7.9l-43-148.7l-8.1-27.9
+					l-23.9-82.5l-32.7-90.4l-10.3-28.6l-45-46l-54-33l-39-31l-11.3-25.1l0.9-20.7l33.9-196.9L312.7-233l-14.8-39.3v-44.6l21-83.7
+					l9.6-50.9l1.4-7.6l-12-73l-9-47l10-56l10.3-26l13.8-35l36-81l14-30l2-24.3l1-17.7l-14-71l-9.8-86.5l-4.2-36.5l18-58l26-46l8-36
+					v-44l-6.1-31.3"/>
+				<path class="st15" d="M1115.4,28.6L903.8,93.8l-22,25l-2,43l30,83l30,12l37-2l191-64l213.7-66.6"/>
+				<path class="st15" d="M1062.2-139.1l30.7,97.9l22.6,69.8l52.5,162.2"/>
+				<path class="st15" d="M526.7,407.3l-100.9-52.5v-20l28.8-65.3l15.5-35.1"/>
+				<path class="st15" d="M1595.8,170.8l-18,7l-38.5,141l-69.5-7l-26.6,10.6"/>
+				<path class="st15" d="M1515.4,483.3l-17.7-15.4l-11.7-16.7l-4.8-6.9l-26.1-83.6l-11.8-38.3l-49.1-157.8l-4.4-14.2l-8.1-26.2
+					L1365.2,74l-73.4-238.3l-4.6-14.6l-6.5-21.1l-172.3-553.7l-14.5-46.7L980-1166.6l-9.6-30.9L906.9-1389l-6.8-20.5l-10.5-32.7"/>
+				<path class="st15" d="M1365.2,74l76.7-29.5l19.3-10.3l12.2-8.7l8.5-11.3l4.9-14.6l70.5-257.9l-1.1-15.4"/>
+				<path class="st15" d="M1482,14.2l83.4,24.6l52.6,18.2"/>
+				<path class="st15" d="M301.8,191.8l152.8,77.7"/>
+			</g>
+			<g id="highway_service">
+				<path class="st16" d="M1092.3,686.6l17.4,57.3l66.6,204.4l107.5,346.8l55,190.8l96.2,362.9"/>
+				<path class="st16" d="M1166.2,663.9l19.2,56.4l66,204.1"/>
+				<path class="st16" d="M1455,360.7l-64.6,18.7l-222.8,69.4l-191.3,60.3l-4.5-15l-16-52.5l-34.9-114.6l-12.1-15.4"/>
+				<path class="st16" d="M681.6,387.6l-45.6-150L591.8,92.1l-122.2,37.3l91.5,297.2l9.1,29.8l19.2-5.7l12.5,41.9l6.3,21.1
+					l15.5,51.8l5.3,17.8l12,40l25.2,84.4l196-63.9l143.5-44.4l190.4-58.8l209.5-64.8l5-27l-20.4-69.4l-21.4-66.3l-42.8-123.3"/>
+				<path class="st16" d="M1390.4,379.4l11.4-34.1l-48.5-146.9l-27.1-8.5h-13.9l-210.2,63.4l-193.3,58.3l-20.8,6.3l-60.2,18.1
+					l-44.5,13.4l-12.8,9.5l23.1,71.7l7.3,22.6l16.5,51.3l5.7,17.7l12.7,39.4l26.5,82.4"/>
+				<path class="st16" d="M770.6,358.8l-8.6,2.8l-80.3,26l-120.5,39l-26.4,8.5"/>
+				<path class="st16" d="M1196.3,540.6l-28.7-91.8l-21.9-67.7L1112.1,275l-9.9-21.7"/>
+				<path class="st16" d="M793.6,430.5L602,492.6"/>
+				<path class="st16" d="M608.3,513.7l192.6-60.6"/>
+				<path class="st16" d="M817.4,504.4l-193.6,61.1"/>
+				<path class="st16" d="M629.2,583.4l194-61.3"/>
+				<path class="st16" d="M835.8,561.4l-194.7,61.9"/>
+				<path class="st16" d="M591.8,92.2L671,67.9l44.5,145.4L636,237.7"/>
+				<path class="st16" d="M671,67.9l62.8-19.3l39.4,119.3l54.6,168"/>
+				<path class="st16" d="M733.8,48.7l61.8-20l37.8,120.4l-60.2,18.9"/>
+				<path class="st16" d="M762,361.6l-46.5-148.3"/>
+				<path class="st16" d="M1369,313.1l-28.3,9l-194.9,59l-190,60.4"/>
+				<path class="st16" d="M1005.9,599.4L971.8,494"/>
+				<path class="st16" d="M833.3,149.1L888,317.8"/>
+			</g>
+			<g id="highway_service1">
+				<path class="st16" d="M1114.8,967.9l-57-194.1l5-13.5l47-16.5l75.6-23.6l41.4-15.4l13.8-5.3l64.2,185.2l-2,15.8l-10.6,10
+					l-29.1,10l-11.8,3.8l-75,23.9L1114.8,967.9L827,1059.7l-63.5,20.3l-92,34.9l-72.5,55.8l-53,48.8l-30.7,53l-25.1,69.8l-8.4,72.6
+					l2.8,64.1L596.2,1815l32.1,51.6l40.5,44.7l55.8,36.2l85.1,36.3l80.9,16.8l97.6-14l156-48.1l291.1-89.7l101.6-31.3l194.2-59.8
+					l153.2-48.3l136-40.8"/>
+				<path class="st16" d="M1240.6,699.6l27.8-15.3l148.2-52.8l35.8-24.3l17.8-35.2l-0.5-14l17.8-36.8"/>
+				<path class="st16" d="M499.3,973.4l58.5-120.6l9.5-20.2l16.5-15.8l64-26l96-35.5l232.5-75.5l101.3-34.8l75.1-22.7l334.6-101.1
+					l28.1-38"/>
+				<path class="st16" d="M1047.8,706.4l44.6-19.8l73.8-22.7l61.5-13.6"/>
+			</g>
+			<g id="highway_residential">
+				<path class="st17" d="M0.8,1027L123,956.2l79.8-46.3l82-84l44.8-35.6l89.2-75.5l149.5-117l6.8-6.1l2.8-7.9l-43-148.7l-8.1-27.9
+					l-23.9-82.5l-32.7-90.4l-10.3-28.6l-45-46l-54-33l-39-31l-11.3-25.1l0.9-20.7l33.9-196.9L312.7-233l-14.8-39.3v-44.6l21-83.7
+					l9.6-50.9l1.4-7.6l-12-73l-9-47l10-56l10.3-26l13.8-35l36-81l14-30l2-24.3l1-17.7l-14-71l-9.8-86.5l-4.2-36.5l18-58l26-46l8-36
+					v-44l-6.1-31.3"/>
+				<path class="st17" d="M1115.4,28.6L903.8,93.8l-22,25l-2,43l30,83l30,12l37-2l191-64l213.7-66.6"/>
+				<path class="st17" d="M1062.2-139.1l30.7,97.9l22.6,69.8l52.5,162.2"/>
+				<path class="st17" d="M526.7,407.3l-100.9-52.5v-20l28.8-65.3l15.5-35.1"/>
+				<path class="st17" d="M1595.8,170.8l-18,7l-38.5,141l-69.5-7l-26.6,10.6"/>
+				<path class="st17" d="M1515.4,483.3l-17.7-15.4l-11.7-16.7l-4.8-6.9l-26.1-83.6l-11.8-38.3l-49.1-157.8l-4.4-14.2l-8.1-26.2
+					L1365.2,74l-73.4-238.3l-4.6-14.6l-6.5-21.1l-172.3-553.7l-14.5-46.7L980-1166.6l-9.6-30.9L906.9-1389l-6.8-20.5l-10.5-32.7"/>
+				<path class="st17" d="M1365.2,74l76.7-29.5l19.3-10.3l12.2-8.7l8.5-11.3l4.9-14.6l70.5-257.9l-1.1-15.4"/>
+				<path class="st17" d="M1482,14.2l83.4,24.6l52.6,18.2"/>
+				<path class="st17" d="M301.8,191.8l152.8,77.7"/>
+			</g>
+			<g id="building">
+				<path class="st18" d="M1413.5,402.7l4.4,15.9l14.1-3.9l-4.5-15.9L1413.5,402.7"/>
+			</g>
+			<g id="highway_service11">
+				<path class="st16" d="M817.4,504.4l-193.6,61.1"/>
+				<path class="st16" d="M1092.3,686.6l17.4,57.3l66.6,204.4l107.5,346.8l55,190.8l96.2,362.9"/>
+				<path class="st16" d="M1166.2,663.9l19.2,56.4l66,204.1"/>
+				<path class="st16" d="M1455,360.7l-64.6,18.7l-222.8,69.4l-191.3,60.3l-4.5-15l-16-52.5l-34.9-114.6l-12.1-15.4"/>
+				<path class="st16" d="M681.6,387.6l-45.6-150L591.8,92.1l-122.2,37.3l91.5,297.2l9.1,29.8l19.2-5.7l12.5,41.9l6.3,21.1
+					l15.5,51.8l5.3,17.8l12,40l25.2,84.4l196-63.9l143.5-44.4l190.4-58.8l209.5-64.8l5-27l-20.4-69.4l-21.4-66.3l-42.8-123.3"/>
+				<path class="st16" d="M1390.4,379.4l11.4-34.1l-48.5-146.9l-27.1-8.5h-13.9l-210.2,63.4l-193.3,58.3l-20.8,6.3l-60.2,18.1
+					l-44.5,13.4l-12.8,9.5l23.1,71.7l7.3,22.6l16.5,51.3l5.7,17.7l12.7,39.4l26.5,82.4"/>
+				<path class="st16" d="M770.6,358.8l-8.6,2.8l-80.3,26l-120.5,39l-26.4,8.5"/>
+				<path class="st16" d="M1196.3,540.6l-28.7-91.8l-21.9-67.7L1112.1,275l-9.9-21.7"/>
+				<path class="st16" d="M793.6,430.5L602,492.6"/>
+				<path class="st16" d="M608.3,513.7l192.6-60.6"/>
+				<path class="st16" d="M629.2,583.4l194-61.3"/>
+				<path class="st16" d="M835.8,561.4l-194.7,61.9"/>
+				<path class="st16" d="M591.8,92.2L671,67.9l44.5,145.4L636,237.7"/>
+				<path class="st16" d="M671,67.9l62.8-19.3l39.4,119.3l54.6,168"/>
+				<path class="st16" d="M733.8,48.7l61.8-20l37.8,120.4l-60.2,18.9"/>
+				<path class="st16" d="M762,361.6l-46.5-148.3"/>
+				<path class="st16" d="M1369,313.1l-28.3,9l-194.9,59l-190,60.4"/>
+				<path class="st16" d="M1005.9,599.4L971.8,494"/>
+				<path class="st16" d="M833.3,149.1L888,317.8"/>
+			</g>
+			<g id="highway_service111">
+				<path class="st16" d="M1114.8,967.9l-57-194.1l5-13.5l47-16.5l75.6-23.6l41.4-15.4l13.8-5.3l64.2,185.2l-2,15.8l-10.6,10
+					l-29.1,10l-11.8,3.8l-75,23.9L1114.8,967.9L827,1059.7l-63.5,20.3l-92,34.9l-72.5,55.8l-53,48.8l-30.7,53l-25.1,69.8l-8.4,72.6
+					l2.8,64.1L596.2,1815l32.1,51.6l40.5,44.7l55.8,36.2l85.1,36.3l80.9,16.8l97.6-14l156-48.1l291.1-89.7l101.6-31.3l194.2-59.8
+					l153.2-48.3l136-40.8"/>
+				<path class="st16" d="M1240.6,699.6l27.8-15.3l148.2-52.8l35.8-24.3l17.8-35.2l-0.5-14l17.8-36.8"/>
+				<path class="st16" d="M499.3,973.4l58.5-120.6l9.5-20.2l16.5-15.8l64-26l96-35.5l232.5-75.5l101.3-34.8l75.1-22.7l334.6-101.1
+					l28.1-38"/>
+				<path class="st16" d="M1047.8,706.4l44.6-19.8l73.8-22.7l61.5-13.6"/>
+			</g>
+			<g id="highway_residential1">
+				<path class="st17" d="M0.8,1027L123,956.2l79.8-46.3l82-84l44.8-35.6l89.2-75.5l149.5-117l6.8-6.1l2.8-7.9l-43-148.7l-8.1-27.9
+					l-23.9-82.5l-32.7-90.4l-10.3-28.6l-45-46l-54-33l-39-31l-11.3-25.1l0.9-20.7l33.9-196.9L312.7-233l-14.8-39.3v-44.6l21-83.7
+					l9.6-50.9l1.4-7.6l-12-73l-9-47l10-56l10.3-26l13.8-35l36-81l14-30l2-24.3l1-17.7l-14-71l-9.8-86.5l-4.2-36.5l18-58l26-46l8-36
+					v-44l-6.1-31.3"/>
+				<path class="st17" d="M1115.4,28.6L903.8,93.8l-22,25l-2,43l30,83l30,12l37-2l191-64l213.7-66.6"/>
+				<path class="st17" d="M1062.2-139.1l30.7,97.9l22.6,69.8l52.5,162.2"/>
+				<path class="st17" d="M526.7,407.3l-100.9-52.5v-20l28.8-65.3l15.5-35.1"/>
+				<path class="st17" d="M1595.8,170.8l-18,7l-38.5,141l-69.5-7l-26.6,10.6"/>
+				<path class="st17" d="M1515.4,483.3l-17.7-15.4l-11.7-16.7l-4.8-6.9l-26.1-83.6l-11.8-38.3l-49.1-157.8l-4.4-14.2l-8.1-26.2
+					L1365.2,74l-73.4-238.3l-4.6-14.6l-6.5-21.1l-172.3-553.7l-14.5-46.7L980-1166.6l-9.6-30.9L906.9-1389l-6.8-20.5l-10.5-32.7"/>
+				<path class="st17" d="M1365.2,74l76.7-29.5l19.3-10.3l12.2-8.7l8.5-11.3l4.9-14.6l70.5-257.9l-1.1-15.4"/>
+				<path class="st17" d="M1482,14.2l83.4,24.6l52.6,18.2"/>
+				<path class="st17" d="M301.8,191.8l152.8,77.7"/>
+			</g>
+			<g id="building1">
+				<path class="st18" d="M1413.5,402.7l4.4,15.9l14.1-3.9l-4.5-15.9L1413.5,402.7"/>
+			</g>
+		</g>
+		<g id="Symbols__icons">
+			<g id="amenity_fast_food__icon">
+				<g transform="translate(586.14,522.57)">
+				</g>
+			</g>
+			<g id="highway_service__shape">
+				<g transform="translate(1117.25,766.72) rotate(71.96)">
+				</g>
+				<g transform="translate(1102.83,720.95) rotate(253.06)">
+				</g>
+				<g transform="translate(1167.8,668.65) rotate(71.19)">
+				</g>
+				<g transform="translate(1192.9,743.5) rotate(72.08)">
+				</g>
+				<g transform="translate(1441.95,364.47) rotate(163.85)">
+				</g>
+				<g transform="translate(1374.41,384.38) rotate(162.7)">
+				</g>
+				<g transform="translate(1294.22,409.36) rotate(162.7)">
+				</g>
+				<g transform="translate(1214.02,434.34) rotate(162.7)">
+				</g>
+				<g transform="translate(1133.85,459.43) rotate(162.51)">
+				</g>
+				<g transform="translate(1053.73,484.68) rotate(162.51)">
+				</g>
+				<g transform="translate(975.48,506.39) rotate(253.19)">
+				</g>
+				<g transform="translate(951.04,426.03) rotate(253.08)">
+				</g>
+				<g transform="translate(926.59,345.67) rotate(253.08)">
+				</g>
+				<g transform="translate(1387.33,369.8) rotate(252.08)">
+				</g>
+				<g transform="translate(1364.29,299.56) rotate(250.85)">
+				</g>
+				<g transform="translate(1336.74,220.21) rotate(250.85)">
+				</g>
+				<g transform="translate(1391.31,382.4) rotate(73.63)">
+				</g>
+				<g transform="translate(1408.71,460.26) rotate(100.48)">
+				</g>
+				<g transform="translate(1340.7,495.96) rotate(162.83)">
+				</g>
+				<g transform="translate(1260.44,520.76) rotate(162.83)">
+				</g>
+				<g transform="translate(1180.19,545.56) rotate(162.83)">
+				</g>
+				<g transform="translate(1099.93,570.36) rotate(162.83)">
+				</g>
+				<g transform="translate(1019.68,595.16) rotate(162.83)">
+				</g>
+				<g transform="translate(939.43,619.97) rotate(162.82)">
+				</g>
+				<g transform="translate(859.19,644.83) rotate(161.93)">
+				</g>
+				<g transform="translate(779.33,670.89) rotate(161.93)">
+				</g>
+				<g transform="translate(699.48,696.94) rotate(161.93)">
+				</g>
+				<g transform="translate(652.28,660.64) rotate(253.35)">
+				</g>
+				<g transform="translate(628.2,580.17) rotate(253.37)">
+				</g>
+				<g transform="translate(604.15,499.68) rotate(253.38)">
+				</g>
+				<g transform="translate(566.5,444.11) rotate(252.96)">
+				</g>
+				<g transform="translate(1395.06,365.52) rotate(288.48)">
+				</g>
+				<g transform="translate(1386.78,299.67) rotate(251.72)">
+				</g>
+				<g transform="translate(1360.42,219.91) rotate(251.72)">
+				</g>
+				<g transform="translate(1294.13,195.32) rotate(163.22)">
+				</g>
+				<g transform="translate(1213.71,219.58) rotate(163.22)">
+				</g>
+				<g transform="translate(1133.28,243.83) rotate(163.22)">
+				</g>
+				<g transform="translate(1052.86,268.08) rotate(163.23)">
+				</g>
+				<g transform="translate(972.43,292.32) rotate(163.23)">
+				</g>
+				<g transform="translate(892.01,316.56) rotate(163.22)">
+				</g>
+				<g transform="translate(811.58,340.79) rotate(163.21)">
+				</g>
+				<g transform="translate(733.87,370.72) rotate(162.05)">
+				</g>
+				<g transform="translate(653.96,396.6) rotate(162.07)">
+				</g>
+				<g transform="translate(574.04,422.47) rotate(162.07)">
+				</g>
+				<g transform="translate(856.9,626.97) rotate(252.17)">
+				</g>
+				<g transform="translate(836.59,563.85) rotate(252.17)">
+				</g>
+				<g transform="translate(810.83,483.9) rotate(252.15)">
+				</g>
+				<g transform="translate(785.09,403.94) rotate(252.16)">
+				</g>
+				<g transform="translate(672.37,357.26) rotate(253.09)">
+				</g>
+				<g transform="translate(657.18,307.28) rotate(253.09)">
+				</g>
+				<g transform="translate(632.75,226.92) rotate(253.1)">
+				</g>
+				<g transform="translate(608.32,146.54) rotate(253.1)">
+				</g>
+				<g transform="translate(565.83,100.08) rotate(163.01)">
+				</g>
+				<g transform="translate(485.49,124.62) rotate(163.01)">
+				</g>
+				<g transform="translate(489.46,193.89) rotate(72.88)">
+				</g>
+				<g transform="translate(514.19,274.17) rotate(72.88)">
+				</g>
+				<g transform="translate(538.91,354.45) rotate(72.88)">
+				</g>
+				<g transform="translate(1190.55,522.18) rotate(252.65)">
+				</g>
+				<g transform="translate(1171.25,460.4) rotate(252.65)">
+				</g>
+				<g transform="translate(1145.52,380.44) rotate(252.39)">
+				</g>
+				<g transform="translate(1120.11,300.38) rotate(252.39)">
+				</g>
+				<g transform="translate(783.46,433.82) rotate(162.04)">
+				</g>
+				<g transform="translate(713.74,456.42) rotate(162.04)">
+				</g>
+				<g transform="translate(633.83,482.33) rotate(162.04)">
+				</g>
+				<g transform="translate(618.79,510.45) rotate(342.52)">
+				</g>
+				<g transform="translate(688.47,488.51) rotate(342.52)">
+				</g>
+				<g transform="translate(768.59,463.28) rotate(342.52)">
+				</g>
+				<g transform="translate(806.45,507.85) rotate(162.47)">
+				</g>
+				<g transform="translate(737.33,529.68) rotate(162.47)">
+				</g>
+				<g transform="translate(657.23,554.98) rotate(162.47)">
+				</g>
+				<g transform="translate(640.33,579.84) rotate(342.45)">
+				</g>
+				<g transform="translate(709.25,558.05) rotate(342.45)">
+				</g>
+				<g transform="translate(789.34,532.72) rotate(342.45)">
+				</g>
+				<g transform="translate(824.23,565.1) rotate(162.36)">
+				</g>
+				<g transform="translate(755.76,586.87) rotate(162.36)">
+				</g>
+				<g transform="translate(675.71,612.33) rotate(162.36)">
+				</g>
+				<g transform="translate(617.58,84.27) rotate(342.99)">
+				</g>
+				<g transform="translate(671.31,69.12) rotate(72.98)">
+				</g>
+				<g transform="translate(695.9,149.44) rotate(72.98)">
+				</g>
+				<g transform="translate(699.05,218.37) rotate(162.98)">
+				</g>
+				<g transform="translate(677.42,65.96) rotate(342.94)">
+				</g>
+				<g transform="translate(751.17,43.03) rotate(342.06)">
+				</g>
+				<g transform="translate(806.75,64.25) rotate(72.59)">
+				</g>
+				<g transform="translate(831.89,144.4) rotate(72.59)">
+				</g>
+				<g transform="translate(768.14,152.68) rotate(251.71)">
+				</g>
+				<g transform="translate(741.78,72.92) rotate(251.71)">
+				</g>
+				<g transform="translate(815.33,297.56) rotate(251.99)">
+				</g>
+				<g transform="translate(801.82,256.02) rotate(251.99)">
+				</g>
+				<g transform="translate(775.85,176.13) rotate(251.99)">
+				</g>
+				<g transform="translate(753.07,333.29) rotate(252.59)">
+				</g>
+				<g transform="translate(736.82,281.47) rotate(252.59)">
+				</g>
+				<g transform="translate(1368.64,313.2) rotate(162.28)">
+				</g>
+				<g transform="translate(1288.73,337.86) rotate(163.16)">
+				</g>
+				<g transform="translate(1208.33,362.19) rotate(163.16)">
+				</g>
+				<g transform="translate(1128.01,386.77) rotate(162.37)">
+				</g>
+				<g transform="translate(1047.95,412.2) rotate(162.37)">
+				</g>
+				<g transform="translate(967.89,437.64) rotate(162.37)">
+				</g>
+				<g transform="translate(1003.58,592.4) rotate(252.07)">
+				</g>
+				<g transform="translate(979.99,519.51) rotate(252.07)">
+				</g>
+				<g transform="translate(845.88,187.76) rotate(72.06)">
+				</g>
+				<g transform="translate(859.22,228.98) rotate(72.06)">
+				</g>
+				<g transform="translate(885.09,308.9) rotate(72.06)">
+				</g>
+			</g>
+			<g id="amenity_fast_food__icon1">
+				<g transform="translate(586.14,522.57)">
+				</g>
+			</g>
+			<g id="highway_service__shape1">
+				<g transform="translate(1117.25,766.72) rotate(71.96)">
+				</g>
+				<g transform="translate(1102.83,720.95) rotate(253.06)">
+				</g>
+				<g transform="translate(1167.8,668.65) rotate(71.19)">
+				</g>
+				<g transform="translate(1192.9,743.5) rotate(72.08)">
+				</g>
+				<g transform="translate(1441.95,364.47) rotate(163.85)">
+				</g>
+				<g transform="translate(1374.41,384.38) rotate(162.7)">
+				</g>
+				<g transform="translate(1294.22,409.36) rotate(162.7)">
+				</g>
+				<g transform="translate(1214.02,434.34) rotate(162.7)">
+				</g>
+				<g transform="translate(1133.85,459.43) rotate(162.51)">
+				</g>
+				<g transform="translate(1053.73,484.68) rotate(162.51)">
+				</g>
+				<g transform="translate(975.48,506.39) rotate(253.19)">
+				</g>
+				<g transform="translate(951.04,426.03) rotate(253.08)">
+				</g>
+				<g transform="translate(926.59,345.67) rotate(253.08)">
+				</g>
+				<g transform="translate(1387.33,369.8) rotate(252.08)">
+				</g>
+				<g transform="translate(1364.29,299.56) rotate(250.85)">
+				</g>
+				<g transform="translate(1336.74,220.21) rotate(250.85)">
+				</g>
+				<g transform="translate(1391.31,382.4) rotate(73.63)">
+				</g>
+				<g transform="translate(1408.71,460.26) rotate(100.48)">
+				</g>
+				<g transform="translate(1340.7,495.96) rotate(162.83)">
+				</g>
+				<g transform="translate(1260.44,520.76) rotate(162.83)">
+				</g>
+				<g transform="translate(1180.19,545.56) rotate(162.83)">
+				</g>
+				<g transform="translate(1099.93,570.36) rotate(162.83)">
+				</g>
+				<g transform="translate(1019.68,595.16) rotate(162.83)">
+				</g>
+				<g transform="translate(939.43,619.97) rotate(162.82)">
+				</g>
+				<g transform="translate(859.19,644.83) rotate(161.93)">
+				</g>
+				<g transform="translate(779.33,670.89) rotate(161.93)">
+				</g>
+				<g transform="translate(699.48,696.94) rotate(161.93)">
+				</g>
+				<g transform="translate(652.28,660.64) rotate(253.35)">
+				</g>
+				<g transform="translate(628.2,580.17) rotate(253.37)">
+				</g>
+				<g transform="translate(604.15,499.68) rotate(253.38)">
+				</g>
+				<g transform="translate(566.5,444.11) rotate(252.96)">
+				</g>
+				<g transform="translate(1395.06,365.52) rotate(288.48)">
+				</g>
+				<g transform="translate(1386.78,299.67) rotate(251.72)">
+				</g>
+				<g transform="translate(1360.42,219.91) rotate(251.72)">
+				</g>
+				<g transform="translate(1294.13,195.32) rotate(163.22)">
+				</g>
+				<g transform="translate(1213.71,219.58) rotate(163.22)">
+				</g>
+				<g transform="translate(1133.28,243.83) rotate(163.22)">
+				</g>
+				<g transform="translate(1052.86,268.08) rotate(163.23)">
+				</g>
+				<g transform="translate(972.43,292.32) rotate(163.23)">
+				</g>
+				<g transform="translate(892.01,316.56) rotate(163.22)">
+				</g>
+				<g transform="translate(811.58,340.79) rotate(163.21)">
+				</g>
+				<g transform="translate(733.87,370.72) rotate(162.05)">
+				</g>
+				<g transform="translate(653.96,396.6) rotate(162.07)">
+				</g>
+				<g transform="translate(574.04,422.47) rotate(162.07)">
+				</g>
+				<g transform="translate(856.9,626.97) rotate(252.17)">
+				</g>
+				<g transform="translate(836.59,563.85) rotate(252.17)">
+				</g>
+				<g transform="translate(810.83,483.9) rotate(252.15)">
+				</g>
+				<g transform="translate(785.09,403.94) rotate(252.16)">
+				</g>
+				<g transform="translate(672.37,357.26) rotate(253.09)">
+				</g>
+				<g transform="translate(657.18,307.28) rotate(253.09)">
+				</g>
+				<g transform="translate(632.75,226.92) rotate(253.1)">
+				</g>
+				<g transform="translate(608.32,146.54) rotate(253.1)">
+				</g>
+				<g transform="translate(565.83,100.08) rotate(163.01)">
+				</g>
+				<g transform="translate(485.49,124.62) rotate(163.01)">
+				</g>
+				<g transform="translate(489.46,193.89) rotate(72.88)">
+				</g>
+				<g transform="translate(514.19,274.17) rotate(72.88)">
+				</g>
+				<g transform="translate(538.91,354.45) rotate(72.88)">
+				</g>
+				<g transform="translate(1190.55,522.18) rotate(252.65)">
+				</g>
+				<g transform="translate(1171.25,460.4) rotate(252.65)">
+				</g>
+				<g transform="translate(1145.52,380.44) rotate(252.39)">
+				</g>
+				<g transform="translate(1120.11,300.38) rotate(252.39)">
+				</g>
+				<g transform="translate(783.46,433.82) rotate(162.04)">
+				</g>
+				<g transform="translate(713.74,456.42) rotate(162.04)">
+				</g>
+				<g transform="translate(633.83,482.33) rotate(162.04)">
+				</g>
+				<g transform="translate(618.79,510.45) rotate(342.52)">
+				</g>
+				<g transform="translate(688.47,488.51) rotate(342.52)">
+				</g>
+				<g transform="translate(768.59,463.28) rotate(342.52)">
+				</g>
+				<g transform="translate(806.45,507.85) rotate(162.47)">
+				</g>
+				<g transform="translate(737.33,529.68) rotate(162.47)">
+				</g>
+				<g transform="translate(657.23,554.98) rotate(162.47)">
+				</g>
+				<g transform="translate(640.33,579.84) rotate(342.45)">
+				</g>
+				<g transform="translate(709.25,558.05) rotate(342.45)">
+				</g>
+				<g transform="translate(789.34,532.72) rotate(342.45)">
+				</g>
+				<g transform="translate(824.23,565.1) rotate(162.36)">
+				</g>
+				<g transform="translate(755.76,586.87) rotate(162.36)">
+				</g>
+				<g transform="translate(675.71,612.33) rotate(162.36)">
+				</g>
+				<g transform="translate(617.58,84.27) rotate(342.99)">
+				</g>
+				<g transform="translate(671.31,69.12) rotate(72.98)">
+				</g>
+				<g transform="translate(695.9,149.44) rotate(72.98)">
+				</g>
+				<g transform="translate(699.05,218.37) rotate(162.98)">
+				</g>
+				<g transform="translate(677.42,65.96) rotate(342.94)">
+				</g>
+				<g transform="translate(751.17,43.03) rotate(342.06)">
+				</g>
+				<g transform="translate(806.75,64.25) rotate(72.59)">
+				</g>
+				<g transform="translate(831.89,144.4) rotate(72.59)">
+				</g>
+				<g transform="translate(768.14,152.68) rotate(251.71)">
+				</g>
+				<g transform="translate(741.78,72.92) rotate(251.71)">
+				</g>
+				<g transform="translate(815.33,297.56) rotate(251.99)">
+				</g>
+				<g transform="translate(801.82,256.02) rotate(251.99)">
+				</g>
+				<g transform="translate(775.85,176.13) rotate(251.99)">
+				</g>
+				<g transform="translate(753.07,333.29) rotate(252.59)">
+				</g>
+				<g transform="translate(736.82,281.47) rotate(252.59)">
+				</g>
+				<g transform="translate(1368.64,313.2) rotate(162.28)">
+				</g>
+				<g transform="translate(1288.73,337.86) rotate(163.16)">
+				</g>
+				<g transform="translate(1208.33,362.19) rotate(163.16)">
+				</g>
+				<g transform="translate(1128.01,386.77) rotate(162.37)">
+				</g>
+				<g transform="translate(1047.95,412.2) rotate(162.37)">
+				</g>
+				<g transform="translate(967.89,437.64) rotate(162.37)">
+				</g>
+				<g transform="translate(1003.58,592.4) rotate(252.07)">
+				</g>
+				<g transform="translate(979.99,519.51) rotate(252.07)">
+				</g>
+				<g transform="translate(845.88,187.76) rotate(72.06)">
+				</g>
+				<g transform="translate(859.22,228.98) rotate(72.06)">
+				</g>
+				<g transform="translate(885.09,308.9) rotate(72.06)">
+				</g>
+			</g>
+		</g>
+		<g id="Layer_799">
+			<g id="highway_residential__text">
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.2481 0.8651 -0.9613 0.2756 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">K</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ệ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">t</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">8</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">7</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">V</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ă</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">á</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.2481 0.8651 -0.9613 0.2756 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">K</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ệ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">t</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">8</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">7</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">V</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ă</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">á</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan></text>
+				</g>
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.3078 0.8457 -0.9397 0.342 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">C</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">á</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">t</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">L</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ợ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.3078 0.8457 -0.9397 0.342 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">C</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">á</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">t</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">L</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ợ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan></text>
+				</g>
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.2781 0.856 -0.9511 0.309 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">Đ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ư</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ờ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">V</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ũ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">L</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ậ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">p</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.2781 0.856 -0.9511 0.309 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">Đ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ư</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ờ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">V</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ũ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">L</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ậ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">p</tspan></text>
+				</g>
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.2329 -0.8693 0.9659 0.2588 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">M</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ả</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.2329 -0.8693 0.9659 0.2588 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">M</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ả</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan></text>
+				</g>
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.2631 0.8607 -0.9563 0.2924 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">M</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ả</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.2631 0.8607 -0.9563 0.2924 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">M</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ả</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan></text>
+				</g>
+			</g>
+			<g id="highway_residential__text1">
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.2481 0.8651 -0.9613 0.2756 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">K</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ệ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">t</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">8</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">7</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">V</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ă</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">á</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.2481 0.8651 -0.9613 0.2756 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">K</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ệ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">t</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">8</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">7</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">V</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ă</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">á</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan></text>
+				</g>
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.3078 0.8457 -0.9397 0.342 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">C</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">á</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">t</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">L</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ợ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.3078 0.8457 -0.9397 0.342 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">C</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">á</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">t</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">L</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ợ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan></text>
+				</g>
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.2781 0.856 -0.9511 0.309 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">Đ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ư</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ờ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">V</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ũ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">L</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ậ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">p</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.2781 0.856 -0.9511 0.309 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">Đ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ư</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ờ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">V</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ũ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">L</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">ậ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386092800;">p</tspan></text>
+				</g>
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.2329 -0.8693 0.9659 0.2588 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">M</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ả</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.2329 -0.8693 0.9659 0.2588 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">M</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ả</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan></text>
+				</g>
+				<g>
+					<g class="st19">
+						<text transform="matrix(0.2631 0.8607 -0.9563 0.2924 nan nan)"><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">M</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ả</tspan><tspan x="nan" y="nan" style="fill:none;stroke:#FFFFFF;stroke-width:2.5; font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan></text>
+					</g>
+				</g>
+				<g>
+					<text transform="matrix(0.2631 0.8607 -0.9563 0.2924 nan nan)" class="st19"><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">Đ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ư</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ờ</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">H</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">à</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">g</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">M</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">i</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">n</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;"> </tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">T</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">h</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">ả</tspan><tspan x="nan" y="nan" style="font-family:'Verdana-Bold'; font-size:10px; letter-spacing:-2386093056;">o</tspan></text>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<path class="st20" d="M598.2,97.3l69.9-21.4l42.1,134.6l-69.9,21.4C640.3,231.9,598.2,97.3,598.2,97.3z"/>
+<path class="st21" d="M666.5,79.6c-21.7,6.7-43.4,13.3-65.1,20c13.5,42.7,26.9,85.5,40.4,128.2c21.6-6.6,43.1-13.3,64.7-19.9
+	C693.2,165.1,679.8,122.4,666.5,79.6z"/>
+<path class="st21" d="M612.3,97c1.3,4,2.5,8.1,3.8,12.1c14.5-4.5,29-8.9,43.5-13.4c-1.3-4-2.5-8-3.8-12"/>
+<path class="st21" d="M629.5,105.9c1.5,5,6.9,7.9,11.9,6.3c5-1.6,7.7-7,6-11.9"/>
+<ellipse transform="matrix(0.2897 -0.9571 0.9571 0.2897 318.4319 736.7092)" class="st21" cx="655.6" cy="153.8" rx="11.9" ry="12.2"/>
+<line class="st22" x1="622.3" y1="163.3" x2="685.8" y2="143.7"/>
+<path class="st21" d="M695.8,210.2c-1.3-4-2.5-8.1-3.8-12.1c-14.5,4.4-29,8.9-43.5,13.3c1.3,4,2.5,8,3.8,12"/>
+<path class="st21" d="M678.7,201.3c-1.5-5-6.9-7.9-11.9-6.3c-5,1.6-7.7,7-6,11.9"/>
+<path class="st20" d="M642.6,240.3l69.9-21.4l42.1,134.6l-69.9,21.4C684.7,374.9,642.6,240.3,642.6,240.3z"/>
+<path class="st21" d="M711,222.4c-21.7,6.7-43.4,13.3-65.1,20c13.5,42.7,26.9,85.5,40.4,128.2c21.6-6.6,43.1-13.3,64.7-19.9
+	C737.6,307.9,724.3,265.2,711,222.4z"/>
+<path class="st21" d="M656.8,239.8c1.3,4,2.5,8.1,3.8,12.1c14.5-4.5,29-8.9,43.5-13.4c-1.3-4-2.5-8-3.8-12"/>
+<path class="st21" d="M673.9,248.6c1.5,5,6.9,7.9,11.9,6.3c5-1.6,7.7-7,6-11.9"/>
+<ellipse transform="matrix(0.2897 -0.9571 0.9571 0.2897 213.3744 880.6938)" class="st21" cx="700.1" cy="296.6" rx="11.9" ry="12.2"/>
+<line class="st22" x1="666.8" y1="306" x2="730.3" y2="286.5"/>
+<path class="st21" d="M740.3,353c-1.3-4-2.5-8.1-3.8-12.1c-14.5,4.4-29,8.9-43.5,13.3c1.3,4,2.5,8,3.8,12"/>
+<path class="st21" d="M723.2,344.1c-1.5-5-6.9-7.9-11.9-6.3c-5,1.6-7.7,7-6,11.9"/>
+<path class="st23" d="M677.6,74.1c9.7,31.2,19.4,62.5,29.1,93.7c18.2-5.6,36.4-11.3,54.5-16.9c-9.7-31.3-19.5-62.5-29.2-93.8
+	C713.9,62.7,695.7,68.4,677.6,74.1z"/>
+<line class="st24" x1="691.8" y1="119.1" x2="746.1" y2="102.3"/>
+<g id="layer1">
+	<g id="g3052">
+		<path id="path3049" class="st25" d="M718.7,100c-0.6,0-1.2,0.1-1.9,0.2c-1.9,0.3-3.7,1.3-5.2,2.7c-3.3,2.9-4,8.5-1.5,12.4
+			c0.4,0.6,0.9,1.2,1.4,1.7c1.7,1.7,3.9,2.8,6.1,3c0.9,0,1.9,0,2.8-0.2c1.9-0.3,3.7-1.3,5.2-2.7c3.3-2.9,4-8.5,1.5-12.4
+			c-0.4-0.6-0.9-1.2-1.4-1.7c-1.5-1.5-3.3-2.5-5.2-2.8C720,100,719.4,100,718.7,100L718.7,100z"/>
+		<path id="path3030" class="st26" d="M722.8,108.2c-0.2,0.2-0.4,0.4-0.5,0.6c0.3,0.5,0.5,1.2,0.5,1.8c0,1.5-0.3,3.1-0.8,4.4
+			c-0.5,1.5-1.3,3-1.9,4.4c0.1,0,0.3,0,0.4,0c1.5-0.3,3-0.9,4.2-2c0.6-0.4,1.1-1,1.6-1.5c-0.2-2.3-0.9-4.5-1.9-6.4
+			c-0.3-0.6-0.7-1.2-1.2-1.7C723,107.9,722.9,108.1,722.8,108.2L722.8,108.2L722.8,108.2z M723.8,107c-0.1,0.1-0.3,0.2-0.3,0.4
+			c0.4,0.5,0.8,1.1,1.2,1.7c1,1.8,1.7,3.8,1.9,5.9c0,0.2,0.1,0,0.2,0c0.9-1.5,1.4-3.3,1.3-5.1c0-0.2-0.2-0.2-0.3-0.3
+			c-1.3-0.7-2.5-1.5-3.6-2.6C724.1,106.9,724,106.7,723.8,107L723.8,107L723.8,107z M726.1,104.2c-0.5,0.7-1.1,1.4-1.6,2.1
+			c0.4,0.5,0.9,1,1.4,1.4c0.7,0.5,1.4,0.9,2.1,1.3c0.2,0,0-0.3,0.1-0.4c-0.2-1.1-0.5-2.1-1-3C726.8,105,726.5,104.6,726.1,104.2
+			L726.1,104.2z M721.6,101c-0.1,0.2,0.1,0.3,0.1,0.5c0.5,1.5,1.2,3,2.2,4.2c0.1,0.2,0.3-0.1,0.4-0.2c0.5-0.6,0.9-1.2,1.4-1.9
+			c-0.9-0.9-1.9-1.7-3-2.2C722.3,101.2,722,101.1,721.6,101L721.6,101z M718.5,100.5c-0.9,0-1.8,0.1-2.7,0.4
+			c-0.9,0.3-1.7,0.7-2.4,1.2c0.7,0.2,1.5,0.3,2.2,0.5c2.4,0.5,4.7,1.7,6.7,3.3c0.3,0.2,0.6,0.6,0.9,0.8c0.2-0.2,0.4-0.3,0.5-0.6
+			c-0.6-0.8-1.1-1.7-1.6-2.6c-0.4-0.9-0.8-1.9-1.1-3C720.1,100.6,719.3,100.5,718.5,100.5L718.5,100.5z M712.7,102.7
+			c-0.4,0.1-0.7,0.5-0.9,0.8c-1.2,1.3-2,2.9-2.4,4.8c-0.1,0.4-0.1,0.8-0.1,1.1c2.5-1,5.2-1.7,7.8-2.2c1-0.1,2-0.1,3,0
+			c0.6,0.1,1.3,0.4,1.8,0.8c0.3-0.2,0.5-0.4,0.7-0.7c0.1-0.1,0.3-0.2,0.1-0.3c-2-1.9-4.4-3.2-6.9-3.8c-1-0.3-1.9-0.5-2.9-0.6
+			L712.7,102.7L712.7,102.7z M718.4,107.8c-2.4,0.1-4.7,0.6-7,1.5l-2.3,0.8c0.1,2.6,1.1,4.9,2.8,6.5c0.1,0.1,0.3-0.1,0.4-0.2
+			c2-1.6,4-3.3,6-5c1-0.9,2.1-1.8,3-2.8c0-0.2-0.2-0.2-0.2-0.3C720.3,108,719.4,107.7,718.4,107.8L718.4,107.8z M721.6,109.4
+			c-1.7,1.6-3.4,3.1-5.2,4.6c-1.3,1.1-2.6,2.1-3.9,3.3c0.6,0.5,1.3,1,2,1.3c1.4,0.7,2.9,1,4.4,0.9c0.3,0.1,0.4-0.1,0.5-0.3
+			c1.1-2.1,2-4.3,2.6-6.6c0.3-1.1,0.2-2.3-0.2-3.3C721.8,109.1,721.6,109.3,721.6,109.4L721.6,109.4z"/>
+	</g>
+</g>
+<path class="st27" d="M718.2,164c-4.6-17.4,0.8-31.3,7.1-32.9c6.1-1.6,17.3,7.3,22.4,23.7"/>
+<path class="st28" d="M724,162.1c-1.7-12,0.6-21,4-21.8c3.3-0.7,9,6,12.7,16.6"/>
+<path class="st27" d="M719.4,61.2c4.6,17.4-0.8,31.3-7.1,32.9c-6.1,1.6-17.3-7.3-22.3-23.7"/>
+<path class="st28" d="M713.6,63.1c1.7,12-0.7,21-4.1,21.8c-3.3,0.7-9-6-12.7-16.6"/>
+<path class="st29" d="M741.6,54.1c11.4,35.9,22.7,71.8,34.1,107.7c17.2-5.3,34.4-10.7,51.5-16c-11.2-35.9-22.4-71.9-33.6-107.8
+	C776.3,43.4,759,48.7,741.6,54.1z"/>
+<path class="st30" d="M745.7,58.8c16-5,32-9.9,48-14.9c10,32.1,19.9,64.1,29.9,96.2c-16,5-31.9,9.9-47.9,14.9
+	C765.7,122.9,755.7,90.8,745.7,58.8z"/>
+<line class="st31" x1="761.1" y1="107.2" x2="808.1" y2="92.5"/>
+<line class="st32" x1="751.9" y1="79.8" x2="799.7" y2="65"/>
+<line class="st32" x1="802.5" y1="90" x2="789" y2="46.4"/>
+<line class="st32" x1="764.5" y1="101.8" x2="750.9" y2="58.1"/>
+<line class="st32" x1="769.9" y1="99.8" x2="756.2" y2="56.1"/>
+<line class="st31" x1="783.4" y1="95.7" x2="769.8" y2="51.9"/>
+<line class="st32" x1="797.5" y1="91.5" x2="783.8" y2="47.8"/>
+<line class="st32" x1="747.4" y1="63.6" x2="795.2" y2="48.8"/>
+<line class="st32" x1="757.9" y1="97.9" x2="805.7" y2="83.1"/>
+<line class="st32" x1="759.7" y1="103.6" x2="807.5" y2="88.8"/>
+<line class="st32" x1="817.4" y1="119.3" x2="769.6" y2="134.1"/>
+<line class="st32" x1="766.8" y1="109" x2="780.3" y2="152.7"/>
+<line class="st32" x1="804.8" y1="97.3" x2="818.4" y2="141"/>
+<line class="st32" x1="799.4" y1="99.2" x2="813.1" y2="143"/>
+<line class="st31" x1="786" y1="103.8" x2="799.4" y2="146.6"/>
+<line class="st32" x1="771.8" y1="107.6" x2="785.5" y2="151.3"/>
+<line class="st32" x1="821.9" y1="135.5" x2="774.1" y2="150.3"/>
+<line class="st32" x1="811.4" y1="101.2" x2="763.6" y2="116"/>
+<line class="st32" x1="809.6" y1="95.5" x2="761.8" y2="110.3"/>
+<path class="st33" d="M778.7,171.2c12.4,38.1,24.8,76.3,37.3,114.4c17.4-5.6,34.8-11.3,52.2-16.9c-12.5-38.1-25.1-76.2-37.6-114.3
+	C813.2,160.1,795.9,165.7,778.7,171.2z"/>
+<path class="st34" d="M806.7,165.3c7.5-2.4,15.1-4.9,22.6-7.3c5.8,17.7,11.7,35.5,17.5,53.2c-7.6,2.5-15.2,4.9-22.8,7.4
+	C818.2,200.8,812.5,183.1,806.7,165.3z"/>
+<line class="st35" x1="809.1" y1="171.7" x2="831.4" y2="164.5"/>
+<line class="st35" x1="810.1" y1="165" x2="826.9" y2="216.9"/>
+<line class="st35" x1="817.7" y1="162.5" x2="834.5" y2="214.5"/>
+<line class="st35" x1="826" y1="159.4" x2="843" y2="211.7"/>
+<line class="st35" x1="811" y1="177.9" x2="833.3" y2="170.6"/>
+<line class="st36" x1="815.1" y1="192" x2="838.4" y2="184.4"/>
+<line class="st35" x1="822.4" y1="212.2" x2="844.7" y2="205"/>
+<line class="st35" x1="820.3" y1="206.1" x2="842.6" y2="198.8"/>
+<path class="st34" d="M781.1,173.8c7.5-2.4,15.1-4.9,22.6-7.3c5.8,17.7,11.7,35.5,17.5,53.2c-7.6,2.5-15.2,4.9-22.8,7.4
+	C792.6,209.3,786.8,191.5,781.1,173.8z"/>
+<line class="st35" x1="783.5" y1="180.2" x2="805.8" y2="173"/>
+<line class="st35" x1="792.1" y1="171" x2="808.9" y2="222.9"/>
+<line class="st35" x1="800.4" y1="167.8" x2="817.4" y2="220.2"/>
+<line class="st35" x1="785.4" y1="186.3" x2="807.7" y2="179.1"/>
+<line class="st37" x1="790.2" y1="200.2" x2="812" y2="193.1"/>
+<line class="st35" x1="796.8" y1="220.7" x2="819.1" y2="213.5"/>
+<line class="st35" x1="794.7" y1="214.5" x2="817" y2="207.3"/>
+<path class="st34" d="M799.6,231.1c7.5-2.4,15.1-4.9,22.6-7.3c5.8,17.7,11.7,35.5,17.5,53.2c-7.6,2.5-15.2,4.9-22.8,7.4
+	C811.1,266.6,805.3,248.8,799.6,231.1z"/>
+<line class="st35" x1="801.9" y1="237.5" x2="824.3" y2="230.2"/>
+<line class="st35" x1="802.9" y1="230.8" x2="819.7" y2="282.7"/>
+<line class="st35" x1="810.6" y1="228.3" x2="827.4" y2="280.2"/>
+<line class="st35" x1="818.9" y1="225.1" x2="835.8" y2="277.5"/>
+<line class="st35" x1="803.9" y1="243.6" x2="826.2" y2="236.4"/>
+<line class="st37" x1="808.7" y1="257.5" x2="830.5" y2="250.4"/>
+<line class="st35" x1="815.2" y1="278" x2="837.6" y2="270.8"/>
+<line class="st35" x1="813.1" y1="271.8" x2="835.4" y2="264.6"/>
+<path class="st34" d="M825.7,222.2c7.5-2.4,15.1-4.9,22.6-7.3c5.8,17.7,11.7,35.5,17.5,53.2c-7.6,2.5-15.2,4.9-22.8,7.4
+	C837.2,257.7,831.5,240,825.7,222.2z"/>
+<line class="st35" x1="828.1" y1="228.6" x2="850.4" y2="221.4"/>
+<line class="st35" x1="829.1" y1="221.9" x2="845.9" y2="273.8"/>
+<line class="st35" x1="836.7" y1="219.5" x2="853.6" y2="271.4"/>
+<line class="st35" x1="845.1" y1="216.3" x2="862" y2="268.6"/>
+<line class="st35" x1="830" y1="234.8" x2="852.4" y2="227.5"/>
+<line class="st35" x1="841.4" y1="269.2" x2="863.7" y2="261.9"/>
+<line class="st35" x1="839.3" y1="263" x2="861.6" y2="255.7"/>
+<line class="st37" x1="835.1" y1="248.9" x2="856.8" y2="241.8"/>
+</svg>

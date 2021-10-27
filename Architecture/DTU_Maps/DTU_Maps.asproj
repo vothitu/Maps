@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:model="http://architecturestudio_project_model/1.0">
+  <model:ArchitectureStudioProject name="DTU_Maps" viewLocation="views" typeRepositoryLocation="images">
+    <architecturalDriversSpec>
+      <useCaseEntityContainer>
+        <useCaseEntities id="E01" title="Student" usecases="/0/@architecturalDriversSpec/@useCaseContainer/@useCases.0"/>
+        <useCaseEntities id="E02" title="Teacher" usecases="/0/@architecturalDriversSpec/@useCaseContainer/@useCases.2"/>
+        <useCaseEntities id="E03" title="Admin" usecases="/0/@architecturalDriversSpec/@useCaseContainer/@useCases.1"/>
+      </useCaseEntityContainer>
+      <useCaseContainer>
+        <useCases id="UC01" title="Login" entities="/0/@architecturalDriversSpec/@useCaseEntityContainer/@useCaseEntities.0" description="This function is to login into app&#xD;&#xA;" preconditions="Student login to the website successful" primaryFlow="1. I&#x2019;m in the role of user&#xD;&#xA;2. I navigate to the login screen&#xD;&#xA;3. I fill in the &#x201c;Email&#x201d; field with my email&#xD;&#xA;4. I fill in the &#x201c;Password&#x201d; field with my password&#xD;&#xA;5. I click the &#x201c;Login&#x201d; button&#xD;&#xA;6. The app will navigate to home screen if the authentication is successful &#xD;&#xA;" postconditions="Navigate to home screen" alternateFlows="4. I fill in the &#x201c;Password&#x201d; field with my password"/>
+        <useCases id="UC02" title="Add geojson maps record" entities="/0/@architecturalDriversSpec/@useCaseEntityContainer/@useCaseEntities.2" description="add new geojson maps record to a system" preconditions="The record is successfully inserted" primaryFlow="1. I&#x2019;m in the role of admin&#xD;&#xA;2. I click &#x201c;Maps&#x201d; button on navigation bar&#xD;&#xA;3. The system navigates to the &#x201c;Manage Maps&#x201d; page and choose setting icon&#xD;&#xA;4. I choose building which need to be added geojson maps&#xD;&#xA;5. The admin enters information of inserted geojson maps record&#xD;&#xA;6. The successful pop-up will be shown if the record is successfully inserted&#xD;&#xA;" postconditions="the record is successfully inserted" alternateFlows="5. The admin enters information of inserted geojson maps record"/>
+        <useCases id="UC03" title="Finding building" entities="/0/@architecturalDriversSpec/@useCaseEntityContainer/@useCaseEntities.1" description="Find where the facility is on maps " preconditions="See the location of the facility on maps" primaryFlow="1. That I&#x2019;m in the role of guest user&#xD;&#xA;2. I successfully login into the app &#xD;&#xA;3. I will navigate to the home screen&#xD;&#xA;4. I select the &#x201c;Maps&#x201d; on navigation bar&#xD;&#xA;5. I will navigate to the Maps screen&#xD;&#xA;6. I select the &#x201c;Facility&#x201d; on navigation bar&#xD;&#xA;7. I can see list of facilities and I choose once&#xD;&#xA;8. I can see the location of the facility on maps&#xD;&#xA;" postconditions="See the location of the facility on maps" alternateFlows="2. I successfully login into the app "/>
+      </useCaseContainer>
+      <qualityAttributeContainer>
+        <qualityAttributes id="QA01" title="" qualityAttribute="Security" stakeholderRole="" sourceOfStimulus="User" environment="Online" architectureElements="The system" systemResponse="Auto log-out" responseMeasure="Time/effort/resources required to&#xA;circumvent security measures with success, restore data/services" stimulus="Not present in 20 minutes"/>
+        <qualityAttributes id="QA02" title="" qualityAttribute="Usability" sourceOfStimulus="First-time customer" environment="Operation" architectureElements="The system" systemResponse="Provide   introduction" responseMeasure="Task time, number of errors, number of   problems solved, user satisfaction, gain of user knowledge." stimulus="Access"/>
+        <qualityAttributes id="QA03" qualityAttribute="Availability" stakeholderRole="" sourceOfStimulus="Internal to the system; external to the system" environment="Normal operation; degraded mode (fewer   features, a fall   back   solution)" architectureElements="System's processors, persistent storage, processes" systemResponse="Record and notify appropriate parties,   including the user and other systems" responseMeasure="Time interval when the system must be   available" stimulus="Omission, crash, timing, response"/>
+        <qualityAttributes id="QA04" title="" qualityAttribute="&#xa0;Performance" stakeholderRole="" sourceOfStimulus="Software" environment="Operation" architectureElements="The   system" systemResponse="Be processed" responseMeasure="Within   5 seconds" stimulus=" Users   request"/>
+      </qualityAttributeContainer>
+      <businessConstraintContainer>
+        <businessConstraints id="BC01" title="Availability of workforce" description="&#xa0;&#x2013; Number of members: 4 persons&#xA;&#xa0;&#x2013; Number of working hours per day: 5 hours/day"/>
+        <businessConstraints id="BC02" title="Cost " description="Total Cost Estimate 4400$;"/>
+        <businessConstraints id="BC03" title="Release Time" description="Will be launched on December 9, 2021"/>
+        <businessConstraints id="BC04" title="User" description="Developed for everyone at Duy Tan University"/>
+      </businessConstraintContainer>
+      <technicalConstraintContainer>
+        <technicalConstraints id="TC01" title="&#xa0; Mobile App" description="- Programing Language: Dart.&#xA;- Framework: Flutter.&#xA;- Database: SQLite.&#xA;- Operating system: Android 9 or upper."/>
+        <technicalConstraints id="TC02" title="Web App" description="&#x2013; Programing Language: HTML, CSS, JavaScript, Typescript.&#xA;&#x2013; Framework: ReactJS.&#xA;&#x2013; Deployment Server: Linux.&#xA;&#x2013; Operating System: Windows, Linux, MacOS.&#xA;&#x2013; Web Browser: Chrome, Firefox, Microsoft Edge."/>
+        <technicalConstraints id="TC03" title="Server" description="&#x2013; Programing Language: JavaScript, TypeScript.&#xA;&#x2013; Framework: Express.&#xA;&#x2013; Database: Redis, MySQL.&#xA;&#x2013; Deployment Server: Linux."/>
+      </technicalConstraintContainer>
+    </architecturalDriversSpec>
+    <folderContainer>
+      <folders/>
+      <folders perspective="Dynamic"/>
+      <folders perspective="Physical"/>
+    </folderContainer>
+    <mappingContainer/>
+    <assignmentContainer/>
+  </model:ArchitectureStudioProject>
+  <model:TypeRepository name="CUSTOM">
+    <typeCategories name="DEFAULT_CATEGORY"/>
+    <typeCategories name="DEFAULT_CATEGORY" perspective="Dynamic"/>
+    <typeCategories name="DEFAULT_CATEGORY" perspective="Physical"/>
+  </model:TypeRepository>
+</xmi:XMI>
